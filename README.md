@@ -2,8 +2,6 @@
 Teófilo Zoé Sibaja Calvo - 24150929
 
 Estructuras Condicionales:
-Desarrolla en Python los siguientes 5 programas utilizando estructuras condicionales (if, elif, else):
-Clasificación de triángulos
 1. Clasif_triangulos
 Solicita al usuario las 3 longitudes de los lados de un triángulo el y el progrma indica si es equilátero, isósceles o escaleno
 2. Año_bisiesto
